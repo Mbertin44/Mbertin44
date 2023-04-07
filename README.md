@@ -3,4 +3,32 @@
 |`In Progress`|[PISCINE_CPP]|
 |`Coming Next`|[exam rank-05]|
 
-thanks to [Byaliego for the badges](https://github.com/byaliego/42-project-badges)
+
+# Bienvenue sur le profil GitHub de Morgan Bertin (@Mbertin44) !
+
+Je suis un étudiant en programmation chez 42 Québec, passionné de code et de technologie. Mon expertise actuelle est en langage de programmation C et je suis actuellement en train d'apprendre le C++.
+
+Sur ce compte GitHub, je partage mes projets d'étudiant ainsi que mes projets personnels, en espérant inspirer d'autres développeurs et collaborer avec la communauté open-source.
+
+## Mes projets importants
+
+Voici une liste de mes projets les plus importants :
+
+- [Minishell](https://github.com/Mbertin44/minishell) : Une interface de commande basique en langage C, créée dans le cadre de mon parcours chez 42 Québec.
+- [Cube3D](https://github.com/Mbertin44/cube3D) : Un moteur de jeu 3D en C, basé sur la technique du Ray-Casting, également créé dans le cadre de mon parcours chez 42 Québec.
+
+## Comment me contacter ?
+
+Je suis facilement joignable sur [LinkedIn](https://www.linkedin.com/in/morgan-bertin-42178326b/) si vous souhaitez me contacter. Vous pouvez également m'envoyer un email à [morganbertin44@gmail.com] si vous avez des questions ou si vous voulez en savoir plus sur mes projets.
+
+## Mes compétences
+
+Je suis confortable avec les langages de programmation suivants :
+
+- C
+- C++
+
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets open-source.
+
+Merci à [Byaliego pour les badges](https://github.com/byaliego/42-project-badges)
+
