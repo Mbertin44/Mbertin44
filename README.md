@@ -17,22 +17,22 @@ Voici une liste de mes projets les plus importants :
 - [Minishell](https://github.com/Mbertin44/minishell) : Une interface de commande basique en langage C, créée dans le cadre de mon parcours chez 42 Québec.
 - [Cube3D](https://github.com/Mbertin44/cube3D) : Un moteur de jeu 3D en C, basé sur la technique du Ray-Casting, également créé dans le cadre de mon parcours chez 42 Québec.
 
-## Recherche de stage
-
-Actuellement, je suis à la recherche d'un stage en programmation pour l'hiver prochain. Je suis ouvert à des opportunités dans différents domaines de la programmation, que ce soit dans le développement de logiciels, la sécurité informatique, la science des données ou autre.
-
-
-
-## Comment me contacter ?
-
-Je suis facilement joignable sur [LinkedIn](https://www.linkedin.com/in/morgan-bertin-42178326b/) si vous souhaitez me contacter. Vous pouvez également m'envoyer un email à [morganbertin44@gmail.com] si vous avez des questions ou si vous voulez en savoir plus sur mes projets.
-
 ## Mes compétences
 
 Je suis confortable avec les langages de programmation suivants :
 
 - C
 - C++
+
+## Recherche de stage
+
+Actuellement, je suis à la recherche d'un stage en programmation pour l'hiver prochain. Je suis ouvert à des opportunités dans différents domaines de la programmation, que ce soit dans le développement de logiciels, la sécurité informatique, la science des données ou autre.
+
+
+## Comment me contacter ?
+
+Je suis facilement joignable sur [LinkedIn](https://www.linkedin.com/in/morgan-bertin-42178326b/) si vous souhaitez me contacter. Vous pouvez également m'envoyer un email à [morganbertin44@gmail.com] si vous avez des questions ou si vous voulez en savoir plus sur mes projets.
+
 
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets open-source.
 
