@@ -36,5 +36,5 @@ Je suis facilement joignable sur [LinkedIn](https://www.linkedin.com/in/morgan-b
 
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets open-source.
 
-Merci à [Byaliego pour les badges](https://github.com/byaliego/42-project-badges)
+Merci à [Byaliego](https://github.com/byaliego/42-project-badges) pour les badges des différents projets.
 
