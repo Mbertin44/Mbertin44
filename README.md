@@ -14,7 +14,7 @@ Sur ce compte GitHub, je partage mes projets d'étudiant ainsi que mes projets p
 
 Voici une liste de mes projets les plus importants :
 
-- [Minishell](https://github.com/Mbertin44/minishell) : Une interface de commande shell en langage C, créée dans le cadre de mon parcours chez 42 Québec.
+- [Minishell](https://github.com/Mbertin44/minishell_42) : Une interface de commande shell en langage C, créée dans le cadre de mon parcours chez 42 Québec.
 - [Cube3D](https://github.com/Mbertin44/CUB3D_42) : Un moteur de jeu 3D en C, basé sur la technique du Ray-Casting, également créé dans le cadre de mon parcours chez 42 Québec.
 
 ## Mes compétences
