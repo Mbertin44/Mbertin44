@@ -31,7 +31,7 @@ Actuellement, je suis à la recherche d'un stage en programmation pour l'hiver p
 
 ## Comment me contacter ?
 
-Je suis facilement joignable sur [LinkedIn](https://www.linkedin.com/in/morgan-bertin-42178326b/) si vous souhaitez me contacter. Vous pouvez également m'envoyer un email à [ici](morganbertin44@gmail.com) si vous avez des questions ou si vous voulez en savoir plus sur mes projets.
+Je suis facilement joignable sur [LinkedIn](https://www.linkedin.com/in/morgan-bertin-42178326b/) si vous souhaitez me contacter. Vous pouvez également m'envoyer un email à morganbertin44@gmail.com si vous avez des questions ou si vous voulez en savoir plus sur mes projets.
 
 
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets open-source.
