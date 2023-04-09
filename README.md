@@ -26,7 +26,7 @@ Je suis confortable avec les langages de programmation suivants :
 
 ## Recherche de stage
 
-Actuellement, je suis à la recherche d'un stage en programmation pour l'hiver prochain. Je suis ouvert à des opportunités dans différents domaines de la programmation, que ce soit dans le développement de logiciels, la sécurité informatique, la science des données ou autre.
+Actuellement, je suis à la recherche d'un stage en programmation pour cette l'hiver. Je suis ouvert à des opportunités dans différents domaines de la programmation, que ce soit dans le développement de logiciels, la sécurité informatique, la science des données ou autre.
 
 
 ## Comment me contacter ?
