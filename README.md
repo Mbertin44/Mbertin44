@@ -16,6 +16,7 @@ Voici une liste de mes projets les plus importants :
 
 - [Minishell](https://github.com/Mbertin44/minishell_42) : Une interface de commande shell en langage C, créée dans le cadre de mon parcours chez 42 Québec.
 - [Cube3D](https://github.com/Mbertin44/CUB3D_42) : Un moteur de jeu 3D en C, basé sur la technique du Ray-Casting, également créé dans le cadre de mon parcours chez 42 Québec.
+- [ft_irc](https://github.com/Mbertin44/irc_42) : Un serveur irc (Internet relay chat) développé en C++ 98 dans le cadre d;un projet chez 42 Québec.
 
 ## Mes compétences
 
